@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is the Setup for all required items like Authentication, File Handling and others",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "setup",
+    "backend",
+    "authentication",
+    "file",
+    "handling"
+  ],
+  "author": "Juned Khan",
+  "license": "ISC"
+}
